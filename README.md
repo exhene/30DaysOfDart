@@ -1,3 +1,3 @@
-# IntroToDart
+# TestingDart
 
 Dart is an open-source programming language developed by Google. It was designed to be a modern, object-oriented, class-based language that is easy to learn and use. Dart is a general-purpose language that can be used for both front-end and back-end development, including web, mobile, and server-side applications. It supports features like garbage collection, async/await for handling asynchronous programming, and strong typing, which can help catch errors early in the development process. Dart also includes a comprehensive standard library and is compatible with many existing libraries and frameworks. Additionally, Dart can be compiled to JavaScript, allowing developers to use it for client-side web development.
